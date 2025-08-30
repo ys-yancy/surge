@@ -671,7 +671,7 @@ DOMAIN-SUFFIX,asmr.one,Proxy
 
 
 # # AI 服务
-# 2025-08-30 15:37
+# 2025-08-30 16:42:29
 # ChatGPT
 DOMAIN-KEYWORD,chatgpt-async-webps-prod-eastus,fallback
 DOMAIN,chat.openai.com.cdn.cloudflare.net,fallback
